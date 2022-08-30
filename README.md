@@ -7,7 +7,7 @@
 [1. Об открытии "Вкусно, но без почки": Как выживать без Макдака](https://blog.denchovski.ml/bezpochki)
 
 ## Соцсети
-[Telegram](https://t.me/denchovski)
+[Telegram](https://t.me/denchovski) <br>
 [Site](https://denchovski.ml)
 
 ***********************************
