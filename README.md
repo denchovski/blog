@@ -17,4 +17,4 @@ Made by [@svpra](https://svpra.ml)
 ***********************************
 
 theme: tactile
-remote_theme: pages-themes/t
+
